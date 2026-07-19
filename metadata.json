@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Smart personalized weather dashboard featuring Open-Meteo current condition tracking, 7-day forecasting, and dynamic activity suitability intelligence recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
